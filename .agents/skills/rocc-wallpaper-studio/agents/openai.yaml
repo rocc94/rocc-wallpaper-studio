@@ -1,0 +1,4 @@
+interface:
+  display_name: "ROCC Wallpaper Studio"
+  short_description: "将壁纸创作经验转为可执行的设计配方、生成任务与质量检查"
+  default_prompt: "Use $rocc-wallpaper-studio to design and generate a wallpaper from my brief."

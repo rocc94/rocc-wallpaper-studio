@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-26",
+  "tool": "built-in image_gen",
+  "model": "not disclosed",
+  "theme": "original rooftop courier with red scarf and a moonlit hillside town",
+  "pixels": [
+    1024,
+    1536
+  ],
+  "original_sha256": "71a05a294ec6023fdc7091ae26b9a1a99e6462ef2ade208edbadd1f4ae82c533",
+  "web_encoding": "WebP encoding only",
+  "review": "Illustrative example, not a success-rate benchmark."
+}

@@ -1,0 +1,311 @@
+{
+  "version": "0.2.1",
+  "provenance": {
+    "date": "2026-10-26",
+    "basis": "visual-inference",
+    "files_scanned": 460,
+    "visual_sample_size": 71,
+    "orientations": {
+      "portrait": 309,
+      "landscape": 150,
+      "square": 1
+    },
+    "author_workflow_verified": false,
+    "note": "ROCC通用方法来自成品视觉推断；新增动漫方向由当前用户选题整理，尚未完成新一轮质量评估。"
+  },
+  "recipes": [
+    {
+      "demo_asset": "rocc-manga.webp",
+      "sample_ids": [],
+      "id": "rocc",
+      "name": "ROCC 风格",
+      "en": "ROCC signature",
+      "tag": "动漫收藏海报",
+      "tag_en": "Collector anime",
+      "color": "#e9be83",
+      "description": "以一个清晰角色为中心，把纸本墨线、故事细节与大块留白做成收藏级动漫壁纸。",
+      "description_en": "One memorable character, tactile ink and story details, composed as a collectible anime wallpaper.",
+      "observation": "延续旧作中的主体轮廓、墨色层级与纸本质感；这是待作者校正的动漫方向，未训练模型。",
+      "observation_en": "Draws on silhouette, ink hierarchy and paper texture observed in earlier work. An inferred direction, awaiting ROCC’s review; no model was trained.",
+      "composition": "One expressive protagonist with a fully readable silhouette in the lower two-thirds. Use one large calm shape behind the figure, two purposeful narrative details, disciplined negative space and a quiet top margin. Make the image read like a collectible anime cover without any cover lettering.",
+      "material": "Hand-inked anime linework on warm ivory paper, varied contour weight, fine cross-hatching, controlled halftone, one restrained vermilion accent. Keep expressive facial details and tactile paper without dirtying the silhouette.",
+      "avoid": "unreadable silhouette, all-over grunge, busy wallpaper clock area, random mechanical detail, glossy generic 3D rendering, copied cover layout",
+      "demo_subject": "一位戴着护目镜的原创屋顶信使，手持地图，红围巾随风扬起，身后是层叠的小城与月亮",
+      "demo_subject_en": "An original rooftop courier with goggles and a map, a red scarf in the wind, a layered hillside town and a quiet moon behind her",
+      "demo_title": "风里的下一站",
+      "demo_title_en": "The next stop"
+    },
+    {
+      "demo_asset": null,
+      "sample_ids": [],
+      "id": "dragon-ball",
+      "name": "七龙珠",
+      "en": "Dragon Ball",
+      "tag": "热血与力量",
+      "tag_en": "Power & motion",
+      "color": "#efb14c",
+      "description": "用夸张透视、清晰动作和受控的速度线，建立热血战斗动漫的爆发力。",
+      "description_en": "Build a battle-anime moment with bold foreshortening, readable action and controlled speed lines.",
+      "observation": "研究方向：力量姿态、明快赛璐璐分区与冲击留白。不是官方素材或作者原稿复原。",
+      "observation_en": "A study of power poses, clear cel-shaded color groups and impact space. No official assets or recreated source panels.",
+      "composition": "A battle-adventure anime study associated with Dragon Ball: one heroic focal figure in a dynamic but anatomically readable pose, strong foreshortening, clear gesture line, a contained energy arc and sparse speed lines directed toward one focal point. Invent a new scene rather than reproduce a published panel.",
+      "material": "Confident rounded-to-angular ink contours, clean cel-shaded blocks, warm orange against blue and a limited luminous accent. Keep hands, eyes and garment shapes crisp; energy effects must not hide the pose.",
+      "avoid": "official title logos, copied panels, fake signatures, uncontrolled aura noise, unreadable hands, scattered energy balls",
+      "demo_subject": "一位原创短发武道旅行者在高山上练习腾空踢，橙色训练服，蓝色护腕，身后是云海",
+      "demo_subject_en": "An original short-haired martial-arts traveler practicing a flying kick above a mountain, orange training clothes, blue wrist wraps and a sea of clouds",
+      "demo_title": "向天空出发",
+      "demo_title_en": "Into the sky"
+    },
+    {
+      "demo_asset": null,
+      "sample_ids": [],
+      "id": "naruto",
+      "name": "火影",
+      "en": "Naruto",
+      "tag": "忍者与叙事",
+      "tag_en": "Shinobi narrative",
+      "color": "#d1a790",
+      "description": "用角色眼神、对角动势和疏密有序的墨线，讲一个安静却有张力的忍者故事。",
+      "description_en": "Tell a tense shinobi story through an expressive gaze, diagonal motion and disciplined ink density.",
+      "observation": "研究方向：忍者冒险动漫的黑白节奏、速度和环境叙事，不使用村徽或官方图标。",
+      "observation_en": "Studies ink rhythm, motion and environmental storytelling in shinobi adventure anime; no village insignia or official marks.",
+      "composition": "A shinobi-adventure anime study associated with Naruto: one expressive ninja protagonist and a clear diagonal line of action, wind-driven fabric, a restrained environmental story such as forest branches or roof tiles. The gaze leads the composition; reserve a quiet upper area. Use a newly invented scene.",
+      "material": "Crisp angular anime ink, dramatic but controlled black shadow shapes, sparse hatch marks and muted earth, charcoal and orange-red accents. Clear facial features and layered atmosphere, not full-frame noise.",
+      "avoid": "official village insignia, copied page panels, logos, over-detailed background competing with face, tangled anatomy, fake calligraphy",
+      "demo_subject": "一位原创女忍者蹲在雨后屋檐，围巾和落叶被风吹起，眺望清晨山谷中的村庄",
+      "demo_subject_en": "An original female shinobi crouching on a rooftop after rain, scarf and leaves in the wind, watching a village in a misty dawn valley",
+      "demo_title": "雨后的任务",
+      "demo_title_en": "After the rain"
+    },
+    {
+      "demo_asset": null,
+      "sample_ids": [],
+      "id": "doraemon",
+      "name": "哆啦A梦",
+      "en": "Doraemon",
+      "tag": "日常与想象",
+      "tag_en": "Everyday wonder",
+      "color": "#8ebfd2",
+      "description": "把圆润线条、简单色块和一个小小的奇妙道具，放进温柔清爽的日常场景。",
+      "description_en": "Pair rounded contours and simple color blocks with one small imaginative gadget in a gentle everyday scene.",
+      "observation": "研究方向：日常科幻动漫的易读造型、亲切情绪与干净留白；示例采用原创角色。",
+      "observation_en": "Studies approachable shapes, gentle emotion and clean space in everyday sci-fi anime. Example subjects are original.",
+      "composition": "An everyday sci-fi anime study associated with Doraemon: one or two rounded, approachable subjects sharing a simple moment around one imaginative gadget, eye-level view, a calm home or neighborhood setting and plenty of open breathing room. Preserve complete silhouettes and an original scene.",
+      "material": "Even clean rounded ink outlines, flat sky blue, ivory and a small red accent, soft cel shading and cheerful storybook simplicity. Keep shapes economical and expressions warm; no photorealistic texture.",
+      "avoid": "official title treatment, copied gadgets or story panels, logos, excessive detail, uncanny 3D plastic, cluttered composition",
+      "demo_subject": "一个原创圆滚滚的薄荷绿小机器人和孩子坐在窗边，试用能把云朵折成纸飞机的小发明",
+      "demo_subject_en": "An original round mint-green robot and a child by a window, testing a tiny invention that folds clouds into paper airplanes",
+      "demo_title": "把云寄给你",
+      "demo_title_en": "Cloud mail"
+    }
+  ],
+  "palettes": [
+    {
+      "id": "paper",
+      "name": "纸本暖色",
+      "colors": [
+        "#e9dfc9",
+        "#c68e53",
+        "#535958"
+      ],
+      "prompt": "warm ivory paper, muted amber and slate, with a dominant neutral ground",
+      "en": "Warm paper"
+    },
+    {
+      "id": "dusk",
+      "name": "暮光蓝紫",
+      "colors": [
+        "#252c48",
+        "#b98791",
+        "#d1a669"
+      ],
+      "prompt": "twilight blue, dusty plum and restrained warm amber, concentrated light rather than neon wash",
+      "en": "Twilight blue"
+    },
+    {
+      "id": "ink",
+      "name": "墨色苔绿",
+      "colors": [
+        "#e7e2d6",
+        "#303936",
+        "#81917a"
+      ],
+      "prompt": "off-white, charcoal and muted moss green, clear ink-density hierarchy",
+      "en": "Ink & moss"
+    },
+    {
+      "id": "apricot",
+      "name": "杏色留白",
+      "colors": [
+        "#efddc4",
+        "#b66d50",
+        "#7c91a1"
+      ],
+      "prompt": "pale apricot, terracotta and a small dusty blue accent, large cohesive matte fields",
+      "en": "Apricot calm"
+    }
+  ],
+  "formats": [
+    {
+      "id": "poster",
+      "name": "收藏海报",
+      "ratio": "2:3",
+      "width": 1600,
+      "height": 2400,
+      "en": "Poster"
+    },
+    {
+      "id": "phone",
+      "name": "手机壁纸",
+      "ratio": "9:16",
+      "width": 1440,
+      "height": 2560,
+      "en": "Phone"
+    },
+    {
+      "id": "desktop",
+      "name": "桌面壁纸",
+      "ratio": "16:9",
+      "width": 2560,
+      "height": 1440,
+      "en": "Desktop"
+    },
+    {
+      "id": "square",
+      "name": "方形画作",
+      "ratio": "1:1",
+      "width": 2048,
+      "height": 2048,
+      "en": "Square"
+    }
+  ],
+  "legacy_recipes": [
+    {
+      "id": "cutaway",
+      "name": "水彩剖面",
+      "en": "Watercolor cutaway",
+      "tag": "结构与故事",
+      "color": "#d5b585",
+      "description": "用一个完整轮廓，装下有层次的小世界。",
+      "sample_ids": [
+        62,
+        63
+      ],
+      "observation": "大型轮廓、内部场景分层、纸张底色与细线条共同组织细节。",
+      "composition": "One dominant, fully visible original silhouette, slightly right of center, readable at thumbnail size. Place two or three purposeful interior cutaway scenes inside it, each with a distinct role and consistent perspective. A clean perimeter and quiet upper area protect hierarchy.",
+      "material": "Refined watercolor washes, precise graphite and restrained technical linework on pale paper. Soft pigment edges contrast with clear mechanical structure; paper texture stays subordinate.",
+      "avoid": "franchise robot silhouettes, recognizable antenna crowns, arbitrary machinery, busy background, repetitive rooms, fake logos",
+      "demo_subject": "一顶内部藏着月面温室、探测车工坊和观测站的原创探索头盔",
+      "demo_title": "月面温室",
+      "demo_asset": "cutaway.webp"
+    },
+    {
+      "id": "ink",
+      "name": "墨色叙事",
+      "en": "Ink narrative",
+      "tag": "主次与笔触",
+      "color": "#b5b3a5",
+      "description": "让轮廓先成立，再让墨迹讲故事。",
+      "sample_ids": [
+        1,
+        40,
+        57,
+        64
+      ],
+      "observation": "浅纸底上用深色主体和有方向的墨迹建立焦点，外围逐渐松散。",
+      "composition": "One clear primary silhouette and focal feature. Concentrate intricate detail near that focus, simplify toward the perimeter, and use directional ink strokes to connect foreground and background. Preserve a quiet paper margin.",
+      "material": "Charcoal-black and warm-gray ink on off-white paper, restrained dry-brush and controlled splatter. Ink density creates depth rather than a uniform noisy overlay.",
+      "avoid": "recognizable manga characters, copied emblems, decorative calligraphy, uniform grunge, indistinct black blobs, competing focal subjects",
+      "demo_subject": "一只守望山林的原创银白狐狸，与身后若隐若现的古松和山雾",
+      "demo_title": "山林守望",
+      "demo_asset": "ink.webp"
+    },
+    {
+      "id": "cinema",
+      "name": "暮光电影",
+      "en": "Twilight cinema",
+      "tag": "光线与尺度",
+      "color": "#b88d9f",
+      "description": "用远近尺度和一束光，把情绪留下来。",
+      "sample_ids": [
+        5,
+        9,
+        66
+      ],
+      "observation": "低明度前景、受控暮光与远处大型结构形成空间和叙事焦点。",
+      "composition": "A small original foreground observer and one distant monumental structure establish scale. A clean horizon and deliberate leading line connect them. Place the brightest contrast at the narrative focus while retaining readable shadow detail.",
+      "material": "Painterly cinematic dusk, desaturated plum, concentrated amber and believable reflected light. Clear spatial separation, no full-frame neon wash.",
+      "avoid": "existing mecha silhouettes, copied movie scenes, neon everywhere, crushed shadows, multiple suns, gratuitous lens flares",
+      "demo_subject": "一名原创远行者站在潮湿盐湖边，望向暮光中缓缓升起的环形观测站",
+      "demo_title": "暮光观测站",
+      "demo_asset": null
+    },
+    {
+      "id": "minimal",
+      "name": "一物留白",
+      "en": "Quiet object",
+      "tag": "留白与比例",
+      "color": "#c3b4ce",
+      "description": "把一个小小的主角，留在足够大的安静里。",
+      "sample_ids": [
+        12,
+        13,
+        26,
+        27,
+        30,
+        31
+      ],
+      "observation": "单色底、小主体与少量笔触依靠位置和比例成立。",
+      "composition": "One small complete original object, approximately 15 to 25 percent of frame height, in the lower-middle region. At least 65 percent calm negative space. One restrained supporting mark may ground it without becoming a second subject.",
+      "material": "A cohesive matte color field and one crisp expressive object with a gentle contact shadow. Subtle tactile character, no decorative noise or excessive gloss.",
+      "avoid": "existing cartoon mascots, extra objects, decorative typography, full-frame subject, unnecessary gradients, ungrounded floating object",
+      "demo_subject": "一只形状独特的原创赤陶小花瓶，插着一枝弯曲的蓝色野花，淡杏色背景",
+      "demo_title": "给一枝花留白",
+      "demo_asset": "minimal.webp"
+    },
+    {
+      "id": "ornament",
+      "name": "繁色收藏",
+      "en": "Ornamental edition",
+      "tag": "密度与秩序",
+      "color": "#b9bf88",
+      "description": "颜色可以很满，视觉中心必须很清楚。",
+      "sample_ids": [
+        29,
+        32,
+        34,
+        35,
+        36,
+        39
+      ],
+      "observation": "高密度装饰围绕中心人物，用重复纹样和有限主色维持秩序。",
+      "composition": "One fully original central subject framed by a coherent family of thematic motifs. Distinguish large, medium and small detail bands; keep the face or focal feature clear. Motifs follow the frame rather than covering the subject.",
+      "material": "Rich collectible print illustration in deep blue, ochre and moss, controlled line weight and subtle printed grain. Repeat colors to unify decorative density.",
+      "avoid": "sports-team badges, commercial logos, existing anime characters, copied jersey designs, crowded unreadable face, random symbols",
+      "demo_subject": "一名原创森林天文学家，身边围绕树叶、星图、猫头鹰和机械星盘的装饰纹样",
+      "demo_title": "森林天文学家",
+      "demo_asset": null
+    },
+    {
+      "id": "tactile",
+      "name": "微缩剧场",
+      "en": "Tactile theatre",
+      "tag": "材质与情绪",
+      "color": "#c49a77",
+      "description": "像一件能握在手里的小小故事。",
+      "sample_ids": [
+        2,
+        16,
+        22,
+        25
+      ],
+      "observation": "有触感的微缩主体、前后关系与暖光，让有限场景产生戏剧性。",
+      "composition": "An original miniature scene with one action, a foreground threshold and warm interior light. At most two or three original figures with distinct poses and unobscured features. Meaningful overlap establishes depth.",
+      "material": "Handmade clay and painted-resin tactile surfaces, subtle imperfections and soft plausible light; warm interior against a quiet darker exterior. No plastic oversmoothing.",
+      "avoid": "existing toys or cartoon identities, crowded faces, copied doorway scene, uncanny anatomy, shiny generic 3D emoji, excessive blur",
+      "demo_subject": "两个原创蘑菇小精灵在微缩修伞铺里，暖灯照着一把刚修好的叶片雨伞",
+      "demo_title": "雨后的修伞铺",
+      "demo_asset": null
+    }
+  ]
+}
