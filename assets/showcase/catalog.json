@@ -1,0 +1,752 @@
+{
+  "version": "1.0",
+  "date": "2026-10-26",
+  "creator": "ROCC",
+  "origin": "author-confirmed-skill-outputs",
+  "confirmation": "作者在本次会话确认20张均由当前Skill生成。",
+  "evaluation": "showcase-not-independent-evaluation",
+  "imageLicense": "Third-party character artwork; excluded from the code MIT license.",
+  "processing": "WebP display copies; full composition and aspect ratio preserved. Original dimensions are recorded separately.",
+  "works": [
+    {
+      "id": "work-01",
+      "group": "ensemble",
+      "title": {
+        "zh": "彩色派对 · Q版全员合影",
+        "en": "Color party · chibi ensemble"
+      },
+      "description": {
+        "zh": "用统一的圆润轮廓和高饱和点色，容纳大量角色。中央主角与四周人物保持清晰间距，彩带和云纹补足节庆节奏。",
+        "en": "Rounded contours and bright color accents unify a large cast. Clear spacing protects every face while confetti and cloud motifs set a festive rhythm."
+      },
+      "highlights": {
+        "zh": [
+          "多人造型统一",
+          "高饱和配色",
+          "群像疏密"
+        ],
+        "en": [
+          "Consistent character treatment",
+          "Bold color accents",
+          "Ensemble spacing"
+        ]
+      },
+      "slug": "color-party",
+      "index": 1,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "0c478ff406a6ccef7227944019fa69401081818013d33566e0556aed7711499c",
+      "thumbnail": "/assets/showcase/01-color-party-0c478ff4.webp",
+      "repositoryImage": "assets/showcase/01-color-party-0c478ff4.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/01-color-party-0c478ff4.webp"
+    },
+    {
+      "id": "work-02",
+      "group": "ensemble",
+      "title": {
+        "zh": "一起思考 · 公式教室",
+        "en": "Thinking together · formula classroom"
+      },
+      "description": {
+        "zh": "把角色统一到“思考”这一动作主题，用桌面前后关系组织多排人物。米黄纸底、橙色服装与手写公式相互呼应，让高密度背景仍有共同秩序。",
+        "en": "A shared thinking gesture connects multiple rows of characters. Desks establish depth, while warm paper, orange garments and handwritten formulas give the dense scene a consistent visual order."
+      },
+      "highlights": {
+        "zh": [
+          "统一动作主题",
+          "场景分层",
+          "背景叙事"
+        ],
+        "en": [
+          "Shared gesture",
+          "Layered staging",
+          "Narrative background"
+        ]
+      },
+      "slug": "study-party",
+      "index": 2,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "7c716893f31dcccbe58c2ed8b26c79f68d1f8b710268a769b06251982921a73e",
+      "thumbnail": "/assets/showcase/02-study-party-7c716893.webp",
+      "repositoryImage": "assets/showcase/02-study-party-7c716893.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/02-study-party-7c716893.webp"
+    },
+    {
+      "id": "work-03",
+      "group": "portrait",
+      "title": {
+        "zh": "少年与筋斗云 · 收藏海报",
+        "en": "Young hero & Nimbus · collector poster"
+      },
+      "description": {
+        "zh": "以大幅侧脸和下方小比例动作人物形成双尺度叙事。暖纸色与橙黑对比、左侧文字区和完整云团，让人物插画与海报排版相互支撑。",
+        "en": "An oversized profile and a smaller action figure create a two-scale narrative. Warm paper, orange-black contrast and a reserved typography column connect illustration with poster layout."
+      },
+      "highlights": {
+        "zh": [
+          "双尺度构图",
+          "纸本色调",
+          "文字层级"
+        ],
+        "en": [
+          "Two-scale composition",
+          "Paper palette",
+          "Type hierarchy"
+        ]
+      },
+      "slug": "goku-nimbus",
+      "index": 3,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1920,
+      "sourceHeight": 3412,
+      "displayWidth": 1152,
+      "displayHeight": 2048,
+      "thumbnailWidth": 405,
+      "thumbnailHeight": 720,
+      "sha256Original": "96184089985c21d6b97a59413212009170dab809fb1b216f8f820b64e9dfc0e0",
+      "thumbnail": "/assets/showcase/03-goku-nimbus-96184089.webp",
+      "repositoryImage": "assets/showcase/03-goku-nimbus-96184089.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/03-goku-nimbus-96184089.webp"
+    },
+    {
+      "id": "work-04",
+      "group": "action",
+      "title": {
+        "zh": "并肩出击 · 三人合力",
+        "en": "Side by side · shared energy"
+      },
+      "description": {
+        "zh": "把三人的视线、手势和能量方向收束到同一个焦点。人物集中在右侧，向左延展的蓝色光束与大块留白，让动作和桌面空间同时成立。",
+        "en": "Three gazes, hand gestures and energy trails converge on one focal point. A right-weighted cast and a leftward blue beam balance action with usable desktop space."
+      },
+      "highlights": {
+        "zh": [
+          "动作方向一致",
+          "集中视觉焦点",
+          "横屏留白"
+        ],
+        "en": [
+          "Aligned gestures",
+          "Unified focus",
+          "Desktop negative space"
+        ]
+      },
+      "slug": "family-energy",
+      "index": 4,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "209452790c079dd581f4017676844ae0dd9cfc6f553304b43323144c0c4961ce",
+      "thumbnail": "/assets/showcase/04-family-energy-20945279.webp",
+      "repositoryImage": "assets/showcase/04-family-energy-20945279.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/04-family-energy-20945279.webp"
+    },
+    {
+      "id": "work-05",
+      "group": "action",
+      "title": {
+        "zh": "金色传承 · 家族肖像",
+        "en": "Golden legacy · family portrait"
+      },
+      "description": {
+        "zh": "用三角站位和肩部接触构成人物之间的情感连接。金发、橙衣和蓝色阴影保持统一色组，左侧暖色留白减轻多人画面的重量。",
+        "en": "Triangular staging and a hand on the shoulder connect the figures emotionally. Golden hair, orange clothing and blue shadows form a unified palette against generous warm space."
+      },
+      "highlights": {
+        "zh": [
+          "三角站位",
+          "情感动作",
+          "色组统一"
+        ],
+        "en": [
+          "Triangular staging",
+          "Emotional gesture",
+          "Unified color groups"
+        ]
+      },
+      "slug": "golden-family",
+      "index": 5,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "791c72a435c71b0f262ecd0e0f7288360489ca2877f23c6b6b70a294fcd07369",
+      "thumbnail": "/assets/showcase/05-golden-family-791c72a4.webp",
+      "repositoryImage": "assets/showcase/05-golden-family-791c72a4.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/05-golden-family-791c72a4.webp"
+    },
+    {
+      "id": "work-06",
+      "group": "cinematic",
+      "title": {
+        "zh": "龙珠微光 · 夜色围坐",
+        "en": "Dragon Ball glow · night gathering"
+      },
+      "description": {
+        "zh": "以发光球体作为主要光源，让脸部、手部与地面产生连贯的暖色受光。巨龙藏在暗处，靠轮廓和双眼维持第二层叙事。",
+        "en": "A glowing sphere lights faces, hands and the ground with a coherent warm source. The dragon remains in shadow, adding a second narrative layer through its silhouette and eyes."
+      },
+      "highlights": {
+        "zh": [
+          "单一叙事光源",
+          "暗部层次",
+          "前后景呼应"
+        ],
+        "en": [
+          "Story-driven key light",
+          "Layered shadows",
+          "Foreground-background connection"
+        ]
+      },
+      "slug": "dragon-night",
+      "index": 6,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "f345befdb6d949e2c967b96db535d5a33692b95903e899460ced2f51207c61a5",
+      "thumbnail": "/assets/showcase/06-dragon-night-f345befd.webp",
+      "repositoryImage": "assets/showcase/06-dragon-night-f345befd.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/06-dragon-night-f345befd.webp"
+    },
+    {
+      "id": "work-07",
+      "group": "ensemble",
+      "title": {
+        "zh": "靛蓝全员 · 横版收藏",
+        "en": "Indigo ensemble · landscape edition"
+      },
+      "description": {
+        "zh": "把大群像组织成上宽下稳的整体，保留人物表情和层间间隙。统一的蓝纸背景、低饱和服装和粗笔标题，形成复古印刷感。",
+        "en": "A broad, balanced ensemble keeps expressions and row spacing readable. Blue paper, muted clothing and a rough display title establish a vintage print character."
+      },
+      "highlights": {
+        "zh": [
+          "群像层级",
+          "低饱和统一",
+          "复古印刷感"
+        ],
+        "en": [
+          "Ensemble hierarchy",
+          "Muted palette",
+          "Vintage print texture"
+        ]
+      },
+      "slug": "blue-ensemble-wide",
+      "index": 7,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1484,
+      "sourceHeight": 1060,
+      "displayWidth": 1484,
+      "displayHeight": 1060,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 514,
+      "sha256Original": "cab74625a5a5ab63c2caadcaae4edbebee20400a4382f32a53b3b5c300a02295",
+      "thumbnail": "/assets/showcase/07-blue-ensemble-wide-cab74625.webp",
+      "repositoryImage": "assets/showcase/07-blue-ensemble-wide-cab74625.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/07-blue-ensemble-wide-cab74625.webp"
+    },
+    {
+      "id": "work-08",
+      "group": "ensemble",
+      "title": {
+        "zh": "靛蓝全员 · 竖版重构",
+        "en": "Indigo ensemble · portrait recomposition"
+      },
+      "description": {
+        "zh": "将横向群像改为纵向堆叠，让标题与人物形成上下节奏。保留蓝纸材质和角色色组，体现同一主题在手机长屏中的重新组织。",
+        "en": "The ensemble becomes a vertical stack with a clear title-to-character rhythm. The same paper texture and character palette carry the theme into a phone-oriented composition."
+      },
+      "highlights": {
+        "zh": [
+          "横竖屏重构",
+          "纵向节奏",
+          "系列一致性"
+        ],
+        "en": [
+          "Format recomposition",
+          "Vertical rhythm",
+          "Series consistency"
+        ]
+      },
+      "slug": "blue-ensemble-tall",
+      "index": 8,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 853,
+      "sourceHeight": 1844,
+      "displayWidth": 853,
+      "displayHeight": 1844,
+      "thumbnailWidth": 333,
+      "thumbnailHeight": 720,
+      "sha256Original": "29b13435746c4fa0ae4e633b73623717b4282b931bf5172baa997507f7d47804",
+      "thumbnail": "/assets/showcase/08-blue-ensemble-tall-29b13435.webp",
+      "repositoryImage": "assets/showcase/08-blue-ensemble-tall-29b13435.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/08-blue-ensemble-tall-29b13435.webp"
+    },
+    {
+      "id": "work-09",
+      "group": "crossover",
+      "title": {
+        "zh": "龙珠 × 足球 · 主题群像",
+        "en": "Dragon Ball × football · themed ensemble"
+      },
+      "description": {
+        "zh": "以中央赛事主题字块作为锚点，让角色、足球、云纹与龙形装饰围绕它展开。两侧元素逐步降低高度，保持宽幅画面的中心与边缘关系。",
+        "en": "A central football-themed title anchors characters, balls, cloud patterns and dragon motifs. A tapering silhouette gives the wide composition a clear center and controlled edges."
+      },
+      "highlights": {
+        "zh": [
+          "跨主题整合",
+          "中心锚点",
+          "装饰密度控制"
+        ],
+        "en": [
+          "Theme integration",
+          "Central anchor",
+          "Controlled ornament density"
+        ]
+      },
+      "slug": "dragon-football",
+      "index": 9,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "ced8dbcca2bae45465fc456614fef14646795f9e5b6d63c70656cbe852544526",
+      "thumbnail": "/assets/showcase/09-dragon-football-ced8dbcc.webp",
+      "repositoryImage": "assets/showcase/09-dragon-football-ced8dbcc.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/09-dragon-football-ced8dbcc.webp"
+    },
+    {
+      "id": "work-10",
+      "group": "crossover",
+      "franchise": "Hunter × Hunter",
+      "title": {
+        "zh": "全职猎人 × 足球 · 联动构想",
+        "en": "Hunter × Hunter × football · crossover concept"
+      },
+      "description": {
+        "zh": "这张是《全职猎人》主题。用角色服装、道具与姓名牌构成各自的识别单元，再以同一纸本色调和装饰纹样连接成完整群像。",
+        "en": "This is the Hunter × Hunter piece. Clothing, props and nameplates create distinct character units, connected by one paper palette and a coherent family of decorative motifs."
+      },
+      "highlights": {
+        "zh": [
+          "角色识别单元",
+          "密集信息编排",
+          "跨作品延展"
+        ],
+        "en": [
+          "Character identity units",
+          "Dense information layout",
+          "Cross-franchise adaptation"
+        ]
+      },
+      "slug": "hunter-football",
+      "index": 10,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "49164741146387777e56a2e92d40e6dda073f5c132dde0ceab21f6df23e50ce4",
+      "thumbnail": "/assets/showcase/10-hunter-football-49164741.webp",
+      "repositoryImage": "assets/showcase/10-hunter-football-49164741.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/10-hunter-football-49164741.webp"
+    },
+    {
+      "id": "work-11",
+      "group": "ensemble",
+      "title": {
+        "zh": "暖红重逢 · 横版合影",
+        "en": "Warm red reunion · landscape portrait"
+      },
+      "description": {
+        "zh": "以橙红背景和浅色弧面拉开人物层次，密集群像仍保留明确的面部区隔。少量深蓝轮廓与暖肤色呼应，强化轻松明快的整体情绪。",
+        "en": "Orange-red ground and a pale arc separate the cast into readable layers. Dark blue contours and warm skin tones keep the dense reunion cheerful and visually coherent."
+      },
+      "highlights": {
+        "zh": [
+          "暖色情绪",
+          "面部分隔",
+          "弧面构图"
+        ],
+        "en": [
+          "Warm emotional palette",
+          "Readable faces",
+          "Arc-based composition"
+        ]
+      },
+      "slug": "red-reunion-wide",
+      "index": 11,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "displayWidth": 1536,
+      "displayHeight": 1024,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 480,
+      "sha256Original": "9305d08c63c70b24f3d93312a03152ac6fe642f9c12b656be7c0046d500db7e3",
+      "thumbnail": "/assets/showcase/11-red-reunion-wide-9305d08c.webp",
+      "repositoryImage": "assets/showcase/11-red-reunion-wide-9305d08c.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/11-red-reunion-wide-9305d08c.webp"
+    },
+    {
+      "id": "work-12",
+      "group": "ensemble",
+      "title": {
+        "zh": "暖红重逢 · 手机长屏",
+        "en": "Warm red reunion · phone edition"
+      },
+      "description": {
+        "zh": "将角色重新排成多层纵向队列，以小型陪衬角色和下方标题形成收尾。保留横版的线条与色彩语言，而不是直接裁掉横图两侧。",
+        "en": "A newly arranged vertical cast uses smaller companions and a bottom title to close the composition. It preserves the landscape edition’s line and color language without simply cropping its sides."
+      },
+      "highlights": {
+        "zh": [
+          "角色重新排布",
+          "长屏适配",
+          "横竖系列感"
+        ],
+        "en": [
+          "Rearranged cast",
+          "Phone adaptation",
+          "Cross-format identity"
+        ]
+      },
+      "slug": "red-reunion-tall",
+      "index": 12,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 864,
+      "sourceHeight": 1821,
+      "displayWidth": 864,
+      "displayHeight": 1821,
+      "thumbnailWidth": 342,
+      "thumbnailHeight": 720,
+      "sha256Original": "f0cbcee5ef52387c66dd6ca7c09460ead06277e98940ae94c7a0fb675341b95a",
+      "thumbnail": "/assets/showcase/12-red-reunion-tall-f0cbcee5.webp",
+      "repositoryImage": "assets/showcase/12-red-reunion-tall-f0cbcee5.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/12-red-reunion-tall-f0cbcee5.webp"
+    },
+    {
+      "id": "work-13",
+      "group": "graphic",
+      "title": {
+        "zh": "四星球 · 巨物与小小少年",
+        "en": "Four-star ball · a world of scale"
+      },
+      "description": {
+        "zh": "用极大的橙色球体与极小的人物形成直接的尺度反差。奶油底色、左侧竖排标题和受控的反光，把简单元素组织成有张力的收藏海报。",
+        "en": "A giant orange sphere contrasts with a tiny figure. Cream paper, a vertical title and restrained highlights turn a few simple elements into a striking collector poster."
+      },
+      "highlights": {
+        "zh": [
+          "尺度反差",
+          "极简留白",
+          "橙黑强调"
+        ],
+        "en": [
+          "Scale contrast",
+          "Minimal negative space",
+          "Orange-black emphasis"
+        ]
+      },
+      "slug": "four-star-scale",
+      "index": 13,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "displayWidth": 1024,
+      "displayHeight": 1536,
+      "thumbnailWidth": 480,
+      "thumbnailHeight": 720,
+      "sha256Original": "c59d3b4f3682b900a570dd712e96df5e210c722734236f6119e99c89ed7ed48a",
+      "thumbnail": "/assets/showcase/13-four-star-scale-c59d3b4f.webp",
+      "repositoryImage": "assets/showcase/13-four-star-scale-c59d3b4f.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/13-four-star-scale-c59d3b4f.webp"
+    },
+    {
+      "id": "work-14",
+      "group": "graphic",
+      "title": {
+        "zh": "四星球 04 · 编辑网格",
+        "en": "Four-star ball 04 · editorial grid"
+      },
+      "description": {
+        "zh": "用超大数字、几何网格和分栏文字建立版式骨架。球体切入网格，小人物压住底部基线，让平面排版与叙事主体保持联系。",
+        "en": "An oversized numeral, thin grid and text columns create the layout structure. The sphere cuts through the grid while the small figure anchors the baseline, connecting graphic design with narrative."
+      },
+      "highlights": {
+        "zh": [
+          "编辑网格",
+          "字体尺度",
+          "插画与排版整合"
+        ],
+        "en": [
+          "Editorial grid",
+          "Typographic scale",
+          "Illustration-type integration"
+        ]
+      },
+      "slug": "four-star-grid",
+      "index": 14,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "displayWidth": 1024,
+      "displayHeight": 1536,
+      "thumbnailWidth": 480,
+      "thumbnailHeight": 720,
+      "sha256Original": "0d6ef37a5e0832138db8f5901f71759bb1bbd84444724d646d6c9c14eea478b9",
+      "thumbnail": "/assets/showcase/14-four-star-grid-0d6ef37a.webp",
+      "repositoryImage": "assets/showcase/14-four-star-grid-0d6ef37a.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/14-four-star-grid-0d6ef37a.webp"
+    },
+    {
+      "id": "work-15",
+      "group": "graphic",
+      "title": {
+        "zh": "ORBIT · 七颗球的轨迹",
+        "en": "ORBIT · paths of seven spheres"
+      },
+      "description": {
+        "zh": "用轨道线把散落的球体组织成一套清楚的视觉关系。大标题、细注释与底部人物形成尺度层级，纸张肌理贯穿整个系统。",
+        "en": "Orbital lines organize separate spheres into a legible system. A large title, small annotations and a bottom figure create a deliberate scale hierarchy across one paper surface."
+      },
+      "highlights": {
+        "zh": [
+          "几何叙事",
+          "注释层级",
+          "纸本系统感"
+        ],
+        "en": [
+          "Geometric storytelling",
+          "Annotation hierarchy",
+          "Cohesive paper system"
+        ]
+      },
+      "slug": "orbital-search",
+      "index": 15,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 768,
+      "sourceHeight": 512,
+      "displayWidth": 768,
+      "displayHeight": 512,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 480,
+      "sha256Original": "8021fabd5e39dd97cba5bed8c7f4eb7bac64c01d067a251f4eea4f06901056ee",
+      "thumbnail": "/assets/showcase/15-orbital-search-8021fabd.webp",
+      "repositoryImage": "assets/showcase/15-orbital-search-8021fabd.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/15-orbital-search-8021fabd.webp"
+    },
+    {
+      "id": "work-16",
+      "group": "cinematic",
+      "title": {
+        "zh": "满月之夜 · 剪影叙事",
+        "en": "Full moon · silhouette narrative"
+      },
+      "description": {
+        "zh": "用明亮月面承托小人物剪影，再把巨猿轮廓嵌入月亮形成隐藏叙事。黑金色调、低位地平线和稀疏文字，让气氛成为画面的主角。",
+        "en": "A bright moon supports the small figure’s silhouette, with an ape-shaped shadow adding a hidden story. Black-gold tones, a low horizon and sparse type give atmosphere the leading role."
+      },
+      "highlights": {
+        "zh": [
+          "图底关系",
+          "隐藏叙事",
+          "黑金气氛"
+        ],
+        "en": [
+          "Figure-ground contrast",
+          "Hidden narrative",
+          "Black-gold atmosphere"
+        ]
+      },
+      "slug": "moon-silhouette",
+      "index": 16,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 768,
+      "sourceHeight": 512,
+      "displayWidth": 768,
+      "displayHeight": 512,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 480,
+      "sha256Original": "0c0a4acfd61c07a4730dd7e693e35f83dd7c4f137074111e87487eb571162cec",
+      "thumbnail": "/assets/showcase/16-moon-silhouette-0c0a4acf.webp",
+      "repositoryImage": "assets/showcase/16-moon-silhouette-0c0a4acf.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/16-moon-silhouette-0c0a4acf.webp"
+    },
+    {
+      "id": "work-17",
+      "group": "collage",
+      "title": {
+        "zh": "冒险片段 · 横版分镜拼贴",
+        "en": "Adventure fragments · landscape collage"
+      },
+      "description": {
+        "zh": "以彩色主角压住黑白分镜背景，利用鞋底透视制造前后深度。分镜边框与大标题构成视觉节拍，使密集内容仍有明确主角。",
+        "en": "A colored protagonist leads a monochrome panel background, with foreshortened shoes adding depth. Panel borders and a bold title create rhythm without losing the main subject."
+      },
+      "highlights": {
+        "zh": [
+          "彩色与黑白分层",
+          "透视焦点",
+          "分镜节奏"
+        ],
+        "en": [
+          "Color-monochrome hierarchy",
+          "Perspective focus",
+          "Panel rhythm"
+        ]
+      },
+      "slug": "goku-panels-wide",
+      "index": 17,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "displayWidth": 1536,
+      "displayHeight": 1024,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 480,
+      "sha256Original": "90ba41cd5668fa679f381ba7178650364f10382f18ce0eb405d057e76dca1328",
+      "thumbnail": "/assets/showcase/17-goku-panels-wide-90ba41cd.webp",
+      "repositoryImage": "assets/showcase/17-goku-panels-wide-90ba41cd.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/17-goku-panels-wide-90ba41cd.webp"
+    },
+    {
+      "id": "work-18",
+      "group": "collage",
+      "title": {
+        "zh": "冒险片段 · 竖版阅读路径",
+        "en": "Adventure fragments · vertical reading path"
+      },
+      "description": {
+        "zh": "把主角、标题和龙珠沿纵向串联，让视线从上方人物走向下方故事细节。黑白分镜保留情绪线索，彩色区域负责建立主次。",
+        "en": "The protagonist, title and sphere form a vertical path through the composition. Monochrome panels carry story cues while the colored regions establish hierarchy."
+      },
+      "highlights": {
+        "zh": [
+          "纵向阅读路径",
+          "主次色彩",
+          "长屏叙事"
+        ],
+        "en": [
+          "Vertical reading path",
+          "Color hierarchy",
+          "Phone storytelling"
+        ]
+      },
+      "slug": "goku-panels-tall",
+      "index": 18,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 941,
+      "sourceHeight": 1672,
+      "displayWidth": 941,
+      "displayHeight": 1672,
+      "thumbnailWidth": 405,
+      "thumbnailHeight": 720,
+      "sha256Original": "0c5174927b27e6f48f510b8be25f4d90a7a70f4add4ae92819d680e6e8d7311b",
+      "thumbnail": "/assets/showcase/18-goku-panels-tall-0c517492.webp",
+      "repositoryImage": "assets/showcase/18-goku-panels-tall-0c517492.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/18-goku-panels-tall-0c517492.webp"
+    },
+    {
+      "id": "work-19",
+      "group": "collage",
+      "title": {
+        "zh": "永不结束的冒险 · 群像长卷",
+        "en": "Never-ending adventure · ensemble panorama"
+      },
+      "description": {
+        "zh": "以墙面作为大群像的共同落点，把主角与伙伴组织成中心展开的扇形。外围黑白故事片段和前景道具提供回忆层次，彩色角色保持叙事核心。",
+        "en": "A shared wall grounds a fan-shaped ensemble expanding from the center. Monochrome story fragments and foreground props add layers of memory while colored characters remain the narrative core."
+      },
+      "highlights": {
+        "zh": [
+          "共同空间落点",
+          "群像中心展开",
+          "故事层次"
+        ],
+        "en": [
+          "Shared spatial anchor",
+          "Center-out ensemble",
+          "Layered storytelling"
+        ]
+      },
+      "slug": "adventure-family-wide",
+      "index": 19,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "displayWidth": 1672,
+      "displayHeight": 941,
+      "thumbnailWidth": 720,
+      "thumbnailHeight": 405,
+      "sha256Original": "540d91d14b28f454d1d13c5d0ac5cb972895cbb57be496ddd3c864b0d5025a1c",
+      "thumbnail": "/assets/showcase/19-adventure-family-wide-540d91d1.webp",
+      "repositoryImage": "assets/showcase/19-adventure-family-wide-540d91d1.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/19-adventure-family-wide-540d91d1.webp"
+    },
+    {
+      "id": "work-20",
+      "group": "collage",
+      "title": {
+        "zh": "海岛重逢 · 纵向全员叙事",
+        "en": "Island reunion · vertical ensemble story"
+      },
+      "description": {
+        "zh": "从天空、标题、建筑、人物到海面建立完整的纵向场景。中央彩色世界与两侧黑白分镜互相映照，用色彩范围控制丰富信息的阅读顺序。",
+        "en": "Sky, title, architecture, cast and sea form a complete vertical scene. A colored central world and monochrome side panels work together, using selective color to guide a dense composition."
+      },
+      "highlights": {
+        "zh": [
+          "完整场景纵深",
+          "彩色范围控制",
+          "多层人物组织"
+        ],
+        "en": [
+          "Complete scene depth",
+          "Selective color",
+          "Layered cast arrangement"
+        ]
+      },
+      "slug": "adventure-island-tall",
+      "index": 20,
+      "franchise": "Dragon Ball",
+      "sourceWidth": 941,
+      "sourceHeight": 1672,
+      "displayWidth": 941,
+      "displayHeight": 1672,
+      "thumbnailWidth": 405,
+      "thumbnailHeight": 720,
+      "sha256Original": "a52d31085fca0dcb6df6b3ee3515fa6800f1d97264c5aa3547c2f8cf3b515eee",
+      "thumbnail": "/assets/showcase/20-adventure-island-tall-a52d3108.webp",
+      "repositoryImage": "assets/showcase/20-adventure-island-tall-a52d3108.webp",
+      "fullImage": "https://raw.githubusercontent.com/rocc94/rocc-wallpaper-studio/main/assets/showcase/20-adventure-island-tall-a52d3108.webp"
+    }
+  ]
+}
