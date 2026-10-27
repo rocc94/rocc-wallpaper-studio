@@ -8,7 +8,17 @@ ROCC Wallpaper Studio 是一个免费的动漫壁纸创作项目，包含简易�
 
 [网站入口 · 中文](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=zh#studio) · [Website · English](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=en#studio) · [用 Codex / Claude Code 创作](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=zh#install)
 
-> **访问状态 / Access:** 网站目前为作者预览，仅向已有访问权限的账号开放；GitHub 仓库与 Skill 已公开。若网站提示无权限，仍可按下方说明直接使用 Skill。The website is currently owner-private; this repository and its Skill are public and can be used independently.
+> **访问状态 / Access:** 网站现已公开，任何人均可访问，无需 ROCC 账号。GitHub 仓库与 Skill 同样公开。The website, repository and Skill are public. No ROCC account is required.
+
+## 不填 API Key，直接用本机工具
+
+1. 打开 [无需 Key 的创作入口](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=zh#install)，选择 Codex 或 Claude Code，填写主题、风格和比例。
+2. 点击打开本机工具。网页带上完整任务及读取 GitHub Skill 的说明；在工具里核对后发送。
+3. 使用会话内置或已经配置的图像工具生成并检查作品。没有图像工具时，交付制作单和提示词，不要求临时新增 Key。
+
+已有 Skill 的用户也可直接在 Codex / Claude Code 中说：`使用 ROCC Wallpaper Studio Skill，为我制作一张……`。模型、图像能力和用量取决于你自己的账号和配置；本站不提供模型额度。Claude Code 本地链接需其协议处理器已注册；Claude 桌面端或复制指令可作替代。GitHub Markdown 可能不允许自定义应用协议，因此请通过上方 HTTPS 网站入口打开。
+
+**No-key workflow:** [Open the local-agent launcher](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=en#install), choose your tool, then review and send the prefilled task locally. It carries the Skill source and design settings. Use existing image tools; if none are available, receive an unexecuted brief. No API key is required by ROCC for this workflow.
 
 ## Skill 作品精选
 
@@ -344,7 +354,7 @@ Key 只在当前页临时保留；一次生成仅将所选 Key 经本站服务�
 先检查可用图像工具；有能力再出图，没有就明确交付未执行的制作单。不在聊天中索要 Key。
 ```
 
-也可以在网站的“使用 Skill”页填写主题，再点击打开 Codex / Claude Code。按钮会预填任务，**不会替你自动发送、安装或执行**。首次导入仍遵守工具权限；Codex 需要桌面应用，Claude Code 云端需要登录并选择自己有权限的 GitHub 仓库，可先 [Fork 本项目](https://github.com/rocc94/rocc-wallpaper-studio/fork)。
+也可以在网站的“使用 Skill”页填写主题，再点击打开 Codex / Claude Code。按钮会预填任务，**不会替你自动发送、安装或执行**。无需在网站填写 Key：Codex 按钮打开本机桌面应用，Claude Code 按钮打开本机终端并预填任务，也可选择 Claude 桌面端。需要安装并登录自己的工具；浏览器可能要求允许打开应用。首次读取或安装遵守工具权限，未唤起时复制指令即可。
 
 ### 克隆项目后使用
 
@@ -377,7 +387,7 @@ cd rocc-wallpaper-studio
 
 ROCC Wallpaper Studio combines a web workspace with an open-source Skill for **Codex and Claude Code**. Art directions: **ROCC signature · Dragon Ball · Naruto · Doraemon**. The web studio supports Chinese and English, your own image API keys, agent-task handoff and transparent evaluation status.
 
-**Website:** [Open in English](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=en#studio) · [Use your agent](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=en#install). The website remains owner-private; you can use the public Skill without website access.
+**Website:** [Open in English](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=en#studio) · [Use your agent](https://rocc-wallpaper-studio-lab.rocc94.chatgpt.site/?lang=en#install). The website is publicly accessible without a ROCC account. Open local Codex or Claude Code with a prefilled task and no API key entered on the site. Claude Desktop and copy/paste are available as alternatives. Install and sign in to your own tool, review the task and send it yourself. Image tools and usage depend on your account and configuration.
 
 Paste into your agent:
 
@@ -401,4 +411,4 @@ ROCC 的一般设计方向来自成品观察推断（460份文件元数据、71�
 
 核对日期 / Checked: 2026-10-26.
 
-[Codex deep links](https://learn.chatgpt.com/docs/reference/commands#deep-links) · [Codex Skills](https://learn.chatgpt.com/docs/build-skills) · [Claude Code Skills](https://code.claude.com/docs/en/skills) · [Claude Code prefilled tasks](https://code.claude.com/docs/en/web-quickstart#pre-fill-sessions).
+[Codex deep links](https://learn.chatgpt.com/docs/reference/commands#deep-links) · [Codex Skills](https://learn.chatgpt.com/docs/build-skills) · [Claude Code Skills](https://code.claude.com/docs/en/skills) · [Claude Code local deep links](https://code.claude.com/docs/en/deep-links) · [Claude Desktop deep links](https://support.claude.com/en/articles/14729294-open-claude-desktop-with-a-link).
